@@ -40,6 +40,7 @@ function main() {
                 }
 
                 // Exibe o nome, quantidade de xp e classificação do personagem 
+                console.clear();
                 console.log("\n---------------------------------");
                 console.log("Nome: " + nome_heroi);
                 console.log("Experiencia: " + xp_heroi + " XP");
