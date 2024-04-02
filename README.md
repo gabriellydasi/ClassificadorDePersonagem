@@ -20,6 +20,7 @@ O programa consiste em determinar a classificação de personagens de jogo com b
 
 
 ### 📱 Imagens
-![Captura de tela 2024-03-30 152515](https://github.com/gabriellydasi/Classificador_Heroi/assets/108135153/349977c1-fd2b-4d83-9b8e-01bc34cdf5de) 
+![image](https://github.com/gabriellydasi/Classificador_Heroi/assets/108135153/d1daa1f0-2cff-4d8e-afd8-0c310fcb7dac)
 <br> <!-- quebra de linha -->
-![Captura de tela 2024-03-30 152854](https://github.com/gabriellydasi/Classificador_Heroi/assets/108135153/1f9643d9-5a67-43b8-9933-390273caf79d)
+![image](https://github.com/gabriellydasi/Classificador_Heroi/assets/108135153/2ce1cce8-70bc-4880-942d-447d11ec27b1)
+
