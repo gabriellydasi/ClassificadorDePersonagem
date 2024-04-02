@@ -1,4 +1,4 @@
-# <p align="center">Formação Lógica de Programação</p>
+# <p align="center">Formação Lógica de Programação DIO</p>
 
 ## Desafio 1: Classificador de Nível de Herói
 
